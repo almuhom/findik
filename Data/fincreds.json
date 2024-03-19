@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "findik",
+  "private_key_id": "c3b1ec57acdf3aaf9a143e95b5425c875deab3b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOsXO0Bc5Z1Xgb\nXFgxKh/s6cVmQB60iUL0PX+ZmJTeK5waKGvWBwsOmyOwKvS7eicttv53jADsA+l9\nF+6E8XQTVYgrfgN1w1VUI653NLohhY+EqB4sLomZfKOppOIZh1O4tJq69gdqHchr\nPluuZW7sSyRvsyNdOMfaARBs0biAgglwFemYGNxtlLJbTGE/URUF2ozu2eZRw6Q2\nkHQEbngf2/kgwrlYLAMEdzwdD69HDmV9mf81XER+VFe0uK6qRVZas3cGnj3JhVdf\ntQvsn0Vj7Q5LNfY03mC+TOIUGQY8gNG3RU0DKbbCOjn0kLV7InXt5S+Dcme3av2y\nsGE46q1LAgMBAAECggEADo1mMOENxRESBT8hrch3pKBVjRxA7S4S1Yu06FVapIUb\n1v2h5gOV7t/TtJYO/Vodgwr0wemiBlFE3FFV3OymYwFtIRQcs0Be9Bm/sVXi2vRX\n2pupkCvF9VVWAojWKxJLkzVoBXdypdvV812vFR7AH16FALZIlvTQoVPc2lnZAcxw\nO9kR7w0jSrofy/Izn3vLn46/rFjxRq01fd5nLBXyEecNmhHjQc44jk2Hjf7LcbV9\nVci3II2WarqbyVaOS5lIFgkcaESUOCjHoj4Ld6TCinfHfleoCF3TnEBe7SoVmNYt\nvxyuNUjytnyUSxHRDUW76bbYrNn9K2N/xWtTP+MpDQKBgQDxnof+LiRHo1cUHCqg\npmyEBZWfPpr9Ic3wcrkXYBTc5DeztEhamF0r+c7JnewX+jLqMGDJBXDvgjNFf+eQ\nc93qFM0RPhkjEzQd+5CJ+uyiJ/imTGArrKTHMTCZ4b7ppH/oZ9FgESk0wim250TB\nB8hHVCx6PNo3nYT3nCUMVcvuhwKBgQDa/sOXY9R5uP2cImk+009X7/u8XpbeoUpZ\nHQ1Ce7G2GCeRROSGUw58GOJb8S4SM0sbi1KghU1ll90iJqGzq6sxPei0ByP+iG8t\nVP7cc5Eim0zRXb7+yPYD/zyP8PnWTacOBdoHyB06j/w8iUN6XkgAakekscG7pLjO\nkKc9EuwYHQKBgQCo/mbDw2YgrQAk0qaGAqD3nihOXy1sSw6NVNBcpxkwfnbvO/M3\nWkYgkfKuVcRh6N9fqUKolyOsgXZ278T45fGa3b2oh7RxMedL6T3pJBYKPMbPGbBS\nG8iMgb0qhBhRtnq4BJUPCjG18u/WO99824KbUSZiwNkn+QadYRsQi5m9VQKBgQCS\n+z6nUzd+YuzEaEwfAJBWQxnAOfQkhDh0Sw1lO8PwpZGY7JY8mW41WDZE40C6snaM\njBvu5MknkJ+4lhkdj/CcYiLXAZvk8Ak+cbeEmoQkp/sM4lCYjKSh1iL9sQzeCsw+\nmyrU4jjL32u57Z6+eJz2ul5PaYbPvCTVbzzvvs16+QKBgQCdLBMnZzAvmtrN1/WT\nq/c5zaLhAMfYoV103wY9Z4TagUfBFb101haxsXibQe9QcWhQqOstvvspdMqjrrNQ\nbK1hPzqexxt/GhtA48QEIQ3eePWR66O29MIa2JpSUj0ExJ0xWTHR9iguIps24iDk\nAfmblKZnK95psepYNrzPxVTqQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "findik@findik.iam.gserviceaccount.com",
+  "client_id": "110404819072438292619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/findik%40findik.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
